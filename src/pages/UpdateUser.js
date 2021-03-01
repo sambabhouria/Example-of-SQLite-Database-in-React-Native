@@ -163,7 +163,7 @@ const UpdateUser = ({navigation}) => {
             textAlign: 'center',
             color: 'grey',
           }}>
-           https://github.com/sambabhouria
+          https://github.com/sambabhouria
         </Text>
       </View>
     </SafeAreaView>
